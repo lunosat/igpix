@@ -1,5 +1,5 @@
 const user = {
-  balance: 3.45689,
+  balance: 3456.89,
 };
 const options = {
   style: 'currency',
